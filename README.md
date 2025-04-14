@@ -31,6 +31,3 @@ This dashboard analyzes sales data for major car brands including Audi, BMW, Toy
 ## 📢 Acknowledgments
 - Dataset sourced externally (please update with link if publicly available).
 
----
-
-Feel free to clone, fork, or use this dashboard for learning and portfolio building! 🚀
